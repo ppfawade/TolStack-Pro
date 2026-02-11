@@ -130,5 +130,3 @@ The logic and data used in TolStack Pro are derived from the following engineeri
 3.  **Drake, Paul J.**: *Dimensioning and Tolerancing Handbook.* McGraw-Hill, 1999. (Source for Vector Loop Method and RSS derivation).
 4.  **Harry, Mikel & Schroeder, Richard**: *Six Sigma: The Breakthrough Management Strategy.* (Source for $C_{pk}$ and PPM correlation tables).
 5.  **AIAG (Automotive Industry Action Group)**: *Statistical Process Control (SPC) Reference Manual.*
-
----
