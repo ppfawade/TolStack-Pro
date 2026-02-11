@@ -132,4 +132,3 @@ The logic and data used in TolStack Pro are derived from the following engineeri
 5.  **AIAG (Automotive Industry Action Group)**: *Statistical Process Control (SPC) Reference Manual.*
 
 ---
-*Built for the Bosch FIT Fest Hackathon.*
